@@ -1,2 +1,16 @@
-# All-Repositories
-this file contains all the links to repositories
+I've collected below the links of the "Guided Projects" that I developed during the studies at [dataquest](https://www.dataquest.io/):
+
+1. [Predicting-Bike-Rentals](https://github.com/dominick87/Predicting-Bike-Rentals)
+2. [Predicting-House-Sale-Prices](https://github.com/dominick87/Predicting-House-Sale-Prices)
+3. [Predicting-Car-Prices](https://github.com/dominick87/Predicting-Car-Prices)
+4. [Winning-Jeopardy](https://github.com/dominick87/Winning-Jeopardy)
+5. [Analyzing-Movie-Reviews](https://github.com/dominick87/Analyzing-Movie-Reviews)
+6. [Creating-relations-in-SQLite](https://github.com/dominick87/Creating-relations-in-SQLite)
+7. [Preparing-data-for-SQLite](https://github.com/dominick87/Preparing-data-for-SQLite)
+8. [Analyzing-CIA-Factbook-Data](https://github.com/dominick87/Analyzing-CIA-Factbook-Data)
+9. [Star-Wars-Survey](https://github.com/dominick87/Star-Wars-Survey)
+10. [Analyzing-NYC-High-School-Data](https://github.com/dominick87/Analyzing-NYC-High-School-Data)
+11. [Visualizing-The-Gender-Gap-In-College-Degrees](https://github.com/dominick87/Visualizing-The-Gender-Gap-In-College-Degrees)
+12. [Visualizing-Earnings-Based-on-College-Majors](https://github.com/dominick87/Visualizing-Earnings-Based-on-College-Majors)
+13. [Analyzing-Thanksgiving-Dinner](https://github.com/dominick87/Analyzing-Thanksgiving-Dinner)
+14. [Gun-Deaths-in-the-US](https://github.com/dominick87/Gun-Deaths-in-the-US)
